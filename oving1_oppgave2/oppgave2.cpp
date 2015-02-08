@@ -23,5 +23,10 @@ int main()
 
 	cout << InputSecs << " Seconds = " << hours << ":" << res_minutes << ":" << res_seconds << endl; 
 
+	float svar = 5.0 / 8.0;
+	cout << svar << endl;
+	svar = svar + 10.0 / 3.0;
+	cout << svar << endl;
+
 	return 0;
 } //main

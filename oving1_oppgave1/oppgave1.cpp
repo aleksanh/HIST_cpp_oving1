@@ -1,7 +1,7 @@
 //
 //
 //oppgave1 til øving1 hist. 
-//frist solo by ahammernes. 
+//first solo by ahammernes. 
 //
 #include <iostream>
 using namespace std;
